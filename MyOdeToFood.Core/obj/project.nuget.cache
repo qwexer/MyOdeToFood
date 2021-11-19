@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "vCq3MynX8DdP+e4wYwvXxwTwZ2Pqis0zb9avmcMGF/Hz2sJACTcGqHNDFHSwDGHKlXB8RniLKCMWadJqygSERA==",
+  "success": true,
+  "projectFilePath": "/home/mil/Repos/MyOdeToFood/MyOdeToFood.Core/MyOdeToFood.Core.csproj",
+  "expectedPackageFiles": [
+    "/home/mil/.nuget/packages/microsoft.netcore.app.runtime.linux-x64/5.0.11/microsoft.netcore.app.runtime.linux-x64.5.0.11.nupkg.sha512",
+    "/home/mil/.nuget/packages/microsoft.aspnetcore.app.runtime.linux-x64/5.0.11/microsoft.aspnetcore.app.runtime.linux-x64.5.0.11.nupkg.sha512"
+  ],
+  "logs": []
+}

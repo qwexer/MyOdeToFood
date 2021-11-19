@@ -1,0 +1,17 @@
+/home/mil/Repos/MyOdeToFood/MyOdeToFood.Data/bin/Debug/net5.0/MyOdeToFood.Data.deps.json
+/home/mil/Repos/MyOdeToFood/MyOdeToFood.Data/bin/Debug/net5.0/MyOdeToFood.Data.dll
+/home/mil/Repos/MyOdeToFood/MyOdeToFood.Data/bin/Debug/net5.0/ref/MyOdeToFood.Data.dll
+/home/mil/Repos/MyOdeToFood/MyOdeToFood.Data/bin/Debug/net5.0/MyOdeToFood.Data.pdb
+/home/mil/Repos/MyOdeToFood/MyOdeToFood.Data/bin/Debug/net5.0/MyOdeToFood.Core.dll
+/home/mil/Repos/MyOdeToFood/MyOdeToFood.Data/bin/Debug/net5.0/MyOdeToFood.Core.pdb
+/home/mil/Repos/MyOdeToFood/MyOdeToFood.Data/obj/Debug/net5.0/MyOdeToFood.Data.csproj.AssemblyReference.cache
+/home/mil/Repos/MyOdeToFood/MyOdeToFood.Data/obj/Debug/net5.0/MyOdeToFood.Data.GeneratedMSBuildEditorConfig.editorconfig
+/home/mil/Repos/MyOdeToFood/MyOdeToFood.Data/obj/Debug/net5.0/MyOdeToFood.Data.AssemblyInfoInputs.cache
+/home/mil/Repos/MyOdeToFood/MyOdeToFood.Data/obj/Debug/net5.0/MyOdeToFood.Data.AssemblyInfo.cs
+/home/mil/Repos/MyOdeToFood/MyOdeToFood.Data/obj/Debug/net5.0/MyOdeToFood.Data.csproj.CoreCompileInputs.cache
+/home/mil/Repos/MyOdeToFood/MyOdeToFood.Data/obj/Debug/net5.0/MyOdeToFood.Data.dll
+/home/mil/Repos/MyOdeToFood/MyOdeToFood.Data/obj/Debug/net5.0/ref/MyOdeToFood.Data.dll
+/home/mil/Repos/MyOdeToFood/MyOdeToFood.Data/obj/Debug/net5.0/MyOdeToFood.Data.pdb
+/home/mil/Repos/MyOdeToFood/MyOdeToFood.Data/bin/Debug/net5.0/MyOdeToFood.Data.runtimeconfig.json
+/home/mil/Repos/MyOdeToFood/MyOdeToFood.Data/bin/Debug/net5.0/MyOdeToFood.Data.runtimeconfig.dev.json
+/home/mil/Repos/MyOdeToFood/MyOdeToFood.Data/obj/Debug/net5.0/MyOdeToFood.Data.genruntimeconfig.cache

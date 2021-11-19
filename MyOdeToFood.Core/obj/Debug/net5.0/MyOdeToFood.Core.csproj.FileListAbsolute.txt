@@ -1,0 +1,12 @@
+/home/mil/Repos/MyOdeToFood/MyOdeToFood.Core/bin/Debug/net5.0/MyOdeToFood.Core.deps.json
+/home/mil/Repos/MyOdeToFood/MyOdeToFood.Core/bin/Debug/net5.0/MyOdeToFood.Core.dll
+/home/mil/Repos/MyOdeToFood/MyOdeToFood.Core/bin/Debug/net5.0/ref/MyOdeToFood.Core.dll
+/home/mil/Repos/MyOdeToFood/MyOdeToFood.Core/bin/Debug/net5.0/MyOdeToFood.Core.pdb
+/home/mil/Repos/MyOdeToFood/MyOdeToFood.Core/obj/Debug/net5.0/MyOdeToFood.Core.csproj.AssemblyReference.cache
+/home/mil/Repos/MyOdeToFood/MyOdeToFood.Core/obj/Debug/net5.0/MyOdeToFood.Core.GeneratedMSBuildEditorConfig.editorconfig
+/home/mil/Repos/MyOdeToFood/MyOdeToFood.Core/obj/Debug/net5.0/MyOdeToFood.Core.AssemblyInfoInputs.cache
+/home/mil/Repos/MyOdeToFood/MyOdeToFood.Core/obj/Debug/net5.0/MyOdeToFood.Core.AssemblyInfo.cs
+/home/mil/Repos/MyOdeToFood/MyOdeToFood.Core/obj/Debug/net5.0/MyOdeToFood.Core.csproj.CoreCompileInputs.cache
+/home/mil/Repos/MyOdeToFood/MyOdeToFood.Core/obj/Debug/net5.0/MyOdeToFood.Core.dll
+/home/mil/Repos/MyOdeToFood/MyOdeToFood.Core/obj/Debug/net5.0/ref/MyOdeToFood.Core.dll
+/home/mil/Repos/MyOdeToFood/MyOdeToFood.Core/obj/Debug/net5.0/MyOdeToFood.Core.pdb
